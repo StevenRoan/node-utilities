@@ -1,0 +1,19 @@
+{
+  "name": "node-utilities",
+  "version": "0.0.1",
+  "description": "Utilities used in most common node.js program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/StevenRoan/node-utilities.git"
+  },
+  "author": "StevenRoan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StevenRoan/node-utilities/issues"
+  },
+  "homepage": "https://github.com/StevenRoan/node-utilities"
+}
