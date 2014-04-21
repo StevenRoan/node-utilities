@@ -1,6 +1,6 @@
 {
   "name": "node-utilities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utilities used in most common node.js program",
   "main": "index.js",
   "scripts": {
