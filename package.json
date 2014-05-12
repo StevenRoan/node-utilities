@@ -1,6 +1,6 @@
 {
   "name": "node-utilities",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utilities used in most common node.js program",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StevenRoan/node-utilities/issues"
   },
-  "homepage": "https://github.com/StevenRoan/node-utilities"
+  "homepage": "https://github.com/StevenRoan/node-utilities",
+  "dependencies": {
+    "moment-timezone": "0.0.6"
+  }
 }
